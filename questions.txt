@@ -241,3 +241,22 @@ Edge cases
 Interview notes
 Real-world usage
 Multiple approaches if possible
+
+
+Reverse a string without using reverse()
+Find duplicate elements in an array
+Remove duplicates from an array
+Find the second largest number
+Find missing number from 1...n
+Count frequency of elements
+Find the first non-repeating character
+Check if two strings are anagrams
+Flatten a nested array
+Group objects by a property
+Sort array of objects
+Find intersection of two arrays
+Find union of two arrays
+Chunk an array
+Implement map() manually
+Implement filter() manually
+Implement reduce() manually
